@@ -1,6 +1,6 @@
 # Balatro Mod Ledger
 This is a Balatro Mod Ledger to collect Balatro mods into one place. The mod list does not update automatically.
-You can request to remove/add mods through this [form]().
+You can request to remove/add mods through this [form](https://docs.google.com/forms/d/e/1FAIpQLScMxnOOnqRa7eklt6hEq_FDpHj7MXcnP6QzZFxoOwRvQO4aRA/viewform?usp=sharing).
 ## Mods - (*75* in total)
 (*sorted by github stars*)
 1. **[Steamodded](https://github.com/Steamopollys/Steamodded)** - A Balatro ModLoader ⭐261

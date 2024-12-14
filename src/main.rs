@@ -107,7 +107,6 @@ https://github.com/Infarcactus/Balatro-Custom-Sound-Player
 https://github.com/Bazinga9000/MathBlinds
 https://github.com/betmma/my_balatro_mods
 https://github.com/morpline/FeedTheVampire
-https://github.com/Mysthaps/BalatroMods
 https://github.com/UppedHealer8521/Riff-Raffling
 https://github.com/Aurelius7309/StylishSleeves
 https://github.com/Tucaonormal/LastStand
@@ -174,6 +173,8 @@ https://github.com/kcgidw/kcvanilla
 https://github.com/AvilionAMillion/Komakusa-Cards
 https://github.com/snowylight/Multipack
 https://github.com/Steamopollys/Steamodded
+https://github.com/MathIsFun0/Aura
+https://github.com/MathIsFun0/Trance
 ";
 
 #[tokio::main]

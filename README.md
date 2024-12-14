@@ -1,7 +1,7 @@
 # Balatro Mod Ledger
 This is a Balatro Mod Ledger to collect Balatro mods into one place. The mod list does not update automatically.
 You can request to remove/add mods through this [form](https://docs.google.com/forms/d/e/1FAIpQLScMxnOOnqRa7eklt6hEq_FDpHj7MXcnP6QzZFxoOwRvQO4aRA/viewform?usp=sharing).
-## Mods - (*76* in total)
+## Mods - (*82* in total)
 (*sorted by github stars*)
 1. **[Steamodded](https://github.com/Steamopollys/Steamodded)** - A Balatro ModLoader ⭐261
 1. **[Cryptid](https://github.com/MathIsFun0/Cryptid)** - An unbalanced Balatro mod ⭐77
@@ -9,20 +9,23 @@ You can request to remove/add mods through this [form](https://docs.google.com/f
 1. **[Codex-Arcanum](https://github.com/itayfeder/Codex-Arcanum)** - Adds a new "Alchemical" card type to Balatro. ⭐28
 1. **[Pokermon](https://github.com/InertSteak/Pokermon)** - A full content Balatro mod where every joker is a Pokemon. ⭐24
 1. **[JensBalatroCollection](https://github.com/jenwalter666/JensBalatroCollection)** - Collection of mods I've made for Balatro ⭐20
+1. **[DebugPlus](https://github.com/WilsontheWolf/DebugPlus)** - Better Debug Tools for Balatro ⭐17
 1. **[Talisman](https://github.com/MathIsFun0/Talisman)** - A mod to enhance high-scoring runs ⭐16
 1. **[balatrobot](https://github.com/besteon/balatrobot)** -  ⭐16
 1. **[my_balatro_mods](https://github.com/betmma/my_balatro_mods)** - some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them. ⭐16
+1. **[BlackHole](https://github.com/Aurelius7309/BlackHole)** - Accessibility/Screenreader mod for Balatro ⭐13
 1. **[SDM_0-s-Stuff](https://github.com/SDM0/SDM_0-s-Stuff)** - Bunch of stuff I've modded into Balatro ⭐13
 1. **[JankJonklers](https://github.com/spikeof2010/JankJonklers)** - Mod for Balatro ⭐11
+1. **[JokerDisplay](https://github.com/nh6574/JokerDisplay)** - Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers. ⭐11
 1. **[balatro-mods](https://github.com/nicholassam6425/balatro-mods)** - collection of balatro mods ⭐11
 1. **[Galdur](https://github.com/Eremel/Galdur)** -  ⭐10
+1. **[reverie](https://github.com/dvrp0/reverie)** - A movie-themed Balatro expansion that focuses on providing special shops and various contents around it ⭐10
 1. **[CardSleeves](https://github.com/larswijn/CardSleeves)** - CardSleeves Balatro Mod  ⭐9
 1. **[balatro-pampa-joker-pack](https://github.com/batabata3/balatro-pampa-joker-pack)** -  ⭐8
 1. **[Cartomancer](https://github.com/stupxd/Cartomancer)** - Balatro mod with quality of life deck & UI optimizations ⭐7
 1. **[Fusion-Jokers](https://github.com/itayfeder/Fusion-Jokers)** - Fuse jokers into special powerful versions! ⭐6
 1. **[paperback](https://github.com/GitNether/paperback)** - Steamodded v1.0.0+ :: A vanilla centered mod built upon expanding the base game by PaperMoon ⭐6
 1. **[Aura](https://github.com/MathIsFun0/Aura)** - Adds animations to Balatro Jokers ⭐5
-1. **[BalatroMods](https://github.com/Mysthaps/BalatroMods)** - balatro thing ⭐5
 1. **[BalatroMods](https://github.com/Wiwiweb/BalatroMods)** - Various mods for Balatro ⭐5
 1. **[Familiar](https://github.com/RattlingSnow353/Familiar)** - Familiar ⭐5
 1. **[Grim](https://github.com/Mathguy23/Grim)** - Balatro, but I added Skill Trees. play on high stakes for more XP from boss blinds. Skills can be attained in the Run Info Menu. Skills and XP do NOT persist between runs. ⭐5
@@ -66,6 +69,7 @@ You can request to remove/add mods through this [form](https://docs.google.com/f
 1. **[EncarvlucasBalatroMods](https://github.com/encarvlucas/EncarvlucasBalatroMods)** - Repository to track my Balatro modding projects ⭐0
 1. **[FusionForce](https://github.com/LunaAstraCassiopeia/FusionForce)** - An expansion pack to the Fusion Jokers mod. Adds 15 new Jokers to fuse! ⭐0
 1. **[Gemstones](https://github.com/0fficialHalo/Gemstones)** -  ⭐0
+1. **[JamMod](https://github.com/WilsontheWolf/JamMod)** - JellyMod for modern SMODS ⭐0
 1. **[Jimbo-s-Pack](https://github.com/art-muncher/Jimbo-s-Pack)** - A Balatro Mod which adds a few jokers! ⭐0
 1. **[Jokebook](https://github.com/Minirebel/Jokebook)** - the Balatro community mod. (We can accept submissions or just idea's) ⭐0
 1. **[LushMod](https://github.com/lshtech/LushMod)** - Mod for Balatro ⭐0
@@ -76,8 +80,10 @@ You can request to remove/add mods through this [form](https://docs.google.com/f
 1. **[Tsunami](https://github.com/Maratby/Tsunami)** -  ⭐0
 1. **[balatro-pampa-joker-pack](https://github.com/lshtech/balatro-pampa-joker-pack)** -  ⭐0
 1. **[circus](https://github.com/jrings/circus)** - The Circus: A Balatro Mod ⭐0
+1. **[gamblecore](https://github.com/nicholassam6425/gamblecore)** - balatro mod that plays a funny clip when wheel of fortune fails ⭐0
 1. **[morjokers](https://github.com/lshtech/morjokers)** - Add Mor Jokers to Balatro! ⭐0
 1. **[strange-pencil](https://github.com/DigitalDetective47/strange-pencil)** - A collection of random stuff that I've created and drawn in Paint. ⭐0
 1. **[yart](https://github.com/DigitalDetective47/yart)** - A Balatro mod that adds reversed tarot cards to the game ⭐0
+1. **[yosbr-balatro](https://github.com/WilsontheWolf/yosbr-balatro)** - Respect balatro user's config. ⭐0
 ## *PS*
 Please give your favorite mods github stars. It helps with Google results and is a good motivator.

@@ -113,7 +113,6 @@ https://github.com/Aurelius7309/StylishSleeves
 https://github.com/Tucaonormal/LastStand
 https://github.com/ascriptmaster/Balatro-Nihility
 https://github.com/nicholassam6425/balatro-mods
-https://github.com/Mysthaps/BalatroMods
 https://github.com/Wiwiweb/BalatroMods
 https://github.com/itayfeder/Codex-Arcanum
 https://github.com/JeffVi/DX-Tarots
@@ -174,6 +173,13 @@ https://github.com/kcgidw/kcvanilla
 https://github.com/AvilionAMillion/Komakusa-Cards
 https://github.com/snowylight/Multipack
 https://github.com/Steamopollys/Steamodded
+https://github.com/WilsontheWolf/DebugPlus
+https://github.com/WilsontheWolf/JamMod
+https://github.com/WilsontheWolf/yosbr-balatro
+https://github.com/Aurelius7309/BlackHole
+https://github.com/nicholassam6425/gamblecore
+https://github.com/nh6574/JokerDisplay
+https://github.com/dvrp0/reverie
 ";
 
 #[tokio::main]

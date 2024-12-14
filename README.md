@@ -1,7 +1,7 @@
 # Balatro Mod Ledger
 This is a Balatro Mod Ledger to collect Balatro mods into one place. The mod list does not update automatically.
 You can request to remove/add mods through this [form](https://docs.google.com/forms/d/e/1FAIpQLScMxnOOnqRa7eklt6hEq_FDpHj7MXcnP6QzZFxoOwRvQO4aRA/viewform?usp=sharing).
-## Mods - (*75* in total)
+## Mods - (*76* in total)
 (*sorted by github stars*)
 1. **[Steamodded](https://github.com/Steamopollys/Steamodded)** - A Balatro ModLoader ⭐261
 1. **[Cryptid](https://github.com/MathIsFun0/Cryptid)** - An unbalanced Balatro mod ⭐77
@@ -21,12 +21,13 @@ You can request to remove/add mods through this [form](https://docs.google.com/f
 1. **[Cartomancer](https://github.com/stupxd/Cartomancer)** - Balatro mod with quality of life deck & UI optimizations ⭐7
 1. **[Fusion-Jokers](https://github.com/itayfeder/Fusion-Jokers)** - Fuse jokers into special powerful versions! ⭐6
 1. **[paperback](https://github.com/GitNether/paperback)** - Steamodded v1.0.0+ :: A vanilla centered mod built upon expanding the base game by PaperMoon ⭐6
-1. **[BalatroMods](https://github.com/Mysthaps/BalatroMods)** - balatro thing ⭐5
+1. **[Aura](https://github.com/MathIsFun0/Aura)** - Adds animations to Balatro Jokers ⭐5
 1. **[BalatroMods](https://github.com/Mysthaps/BalatroMods)** - balatro thing ⭐5
 1. **[BalatroMods](https://github.com/Wiwiweb/BalatroMods)** - Various mods for Balatro ⭐5
 1. **[Familiar](https://github.com/RattlingSnow353/Familiar)** - Familiar ⭐5
 1. **[Grim](https://github.com/Mathguy23/Grim)** - Balatro, but I added Skill Trees. play on high stakes for more XP from boss blinds. Skills can be attained in the Run Info Menu. Skills and XP do NOT persist between runs. ⭐5
 1. **[The-World-Ends-With-Jimbo](https://github.com/parchmentEngineer/The-World-Ends-With-Jimbo)** - A mod for Balatro that adds pins and brands from The World Ends With You ⭐5
+1. **[Trance](https://github.com/MathIsFun0/Trance)** - A mod that lets you change Balatro's colors ⭐5
 1. **[kcvanilla](https://github.com/kcgidw/kcvanilla)** - Balatro content mod featuring plausible, vanilla-style Jokers and a faithful art style ⭐5
 1. **[Blueprint](https://github.com/stupxd/Blueprint)** - Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying ⭐4
 1. **[DX-Tarots](https://github.com/JeffVi/DX-Tarots)** - A Balatro mod that adds Deluxe consumables! ⭐4

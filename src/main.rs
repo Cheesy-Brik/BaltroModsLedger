@@ -181,6 +181,7 @@ https://github.com/nh6574/JokerDisplay
 https://github.com/dvrp0/reverie
 https://github.com/MathIsFun0/Aura
 https://github.com/MathIsFun0/Trance
+https://github.com/Dimserene/Oiiman-s-Additions
 ";
 
 #[tokio::main]
